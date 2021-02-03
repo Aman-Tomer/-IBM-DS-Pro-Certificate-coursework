@@ -5,3 +5,5 @@ Here are the links to the dataset & the Python Jupyter notebook created for the 
 https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/coursera/project/kc_house_data_NaN.csv
 
 https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/b16a50af-c69c-47e1-8cba-cda47e89c251/view?access_token=d27a727f3ac97b14e1cadd29883a019f17051575220277b3c39ef3c57b840d60
+
+In the Loan Classification project, I've used a historical dataset from previous loan applications to build classifiers to predict whether a loan case will be paid off or not. Also, I've the used different accuracy evaluation metrics to find the best classifier. 
